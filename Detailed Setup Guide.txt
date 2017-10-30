@@ -1,0 +1,7 @@
+Start Magment System.
+For reading all events press: 1     For list all events push key 1 from keyboard.
+For creating a new event press: 2   For create new event press key 2 from keyboard.
+For updating a event press: 3       For update event press key 3 from keyboard.
+For deleting a event press: 4       For delete event press key 4 from keyboard.
+For exit: 5                         For finish the program press key 5 from keybord. 
+All data is saved in external file.
