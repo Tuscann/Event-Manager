@@ -6,20 +6,22 @@ The following information is stored for each event: name, location, start date a
 
 The application should allow you to read all events, create a new event, update an existing event and delete it.
 
-Grading
+Grading<br>
 
-Read feature - 10%
-Create feature - 10%
-Update feature - 10%
-Delete feature - 10%
-Data Validation - 10%
-Separation of Concerns - 10%
-Code formatting - 5%
-Naming Conventions - 5%
-3-tier Architecture - 10%
-Code Reuse - 10%
-Detailed Setup Guide - 10%
-Deliverables
+Read feature - 10%<br>
+Create feature - 10%<br>
+Update feature - 10%<br>
+Delete feature - 10%<br>
+Data Validation - 10%<br>
+Separation of Concerns - 10%<br>
+Code formatting - 5%<br>
+Naming Conventions - 5%<br>
+3-tier Architecture - 10%<br>
+Code Reuse - 10%<br>
+Detailed Setup Guide - 10%<br>
 
-1. Application source code 
-2. Detailed Setup Guide
+
+Deliverables<br>
+
+1. Application source code<br> 
+2. Detailed Setup Guide<br>
